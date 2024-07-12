@@ -1,4 +1,4 @@
-module github.com/ichthoth/spotify-downloader
+module github.com/stdthoth/spotify-downloader
 
 go 1.20
 
